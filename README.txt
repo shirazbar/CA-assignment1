@@ -15,6 +15,6 @@ recommended parameters that create at least three different waves were set as de
 For execution, you may use the controller.exe file by clicking it. 
 Download from: https://github.com/shirazbar/CA-assignment1
 
-You can also run the program with the following commands:
+You can also run the program using the full code with the following commands:
 pip install -r requirements.txt
 python controller.py
