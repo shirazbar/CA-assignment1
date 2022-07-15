@@ -1,5 +1,5 @@
 # Cellular Automaton - Covid19
-- Authors: Shiraz Bar Nave and Eden Meidan
+Authors: Shiraz Bar Nave and Eden Meidan
 - Description: This project creates a Covid19 Cell Automat. This Cell Automat creates a 200*200 model filled with creatures. The creature can infect each other with Covid19 in a set probability. The goal of this Cell Automat is to create at least three different waves of Covid19 virous. 
 - Parameters: The user can input the fallowing parameters into the Cell Automat-
   * number of creatures [N]
