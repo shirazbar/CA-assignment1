@@ -12,7 +12,7 @@ Authors: Shiraz Bar Nave and Eden Meidan
 recommended parameters that create at least three different waves were set as default.
 - Collisions: movement in this Cell Automat is set in a way that all creatures move together and with a uniform probability. The model is built in a way that there will always be a single creature in a cell. Collisions are prevented from being made.
 
-For execution, you may use the controller.exe file by clicking it. 
+For execution, you may use the "controller.exe" file by clicking it. 
 Download from: https://github.com/shirazbar/CA-assignment1
 
 You can also run the program using the full code with the following commands:
