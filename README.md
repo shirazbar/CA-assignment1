@@ -17,4 +17,5 @@ Download from: https://github.com/shirazbar/CA-assignment1
 
 You can also run the program using the full code with the following commands:
 >> pip install -r requirements.txt
+
 >> python controller.py
